@@ -1,0 +1,3 @@
+# s_cats
+uses a Generative Adversarial Network to produce cute cat thumbnails 
+create some new cats pics and enjoy...
